@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = berthomier.julien@gmail.com
+	name = Julien Berthomier
